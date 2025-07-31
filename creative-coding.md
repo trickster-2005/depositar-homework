@@ -64,7 +64,7 @@
 3. **動作與聲音**
 
 
-    |![](/assets/特雷門琴.gif)|![](/assets/ground-piano.jpg)|
+    |![](./assets/theremin.gif)|![](./assets/ground-piano.jpg)|
     |:-:|:-:|
     |特雷門琴|用腳觸發鋼琴|
     
