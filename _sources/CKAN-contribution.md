@@ -29,7 +29,17 @@
 - 目標分支為 master
     - 除非 maintainer 指定要送到特定版本分支。
 
-## Styling
+## Else
 - Commit message
-- Comment in source code
+    - 用 祈使句（imperative mood），例如：
+        - Add tutorial for custom plugins
+        - Fix broken Solr query in search page
+    - 若有對應 issue，必須加上如 [#123] 的標示。
+        - [#456] Update API docs for search endpoint
 - Document writing
+    - Overview：為什麼有這功能？用途？背景概念。
+    - Tutorials：怎麼設定？怎麼用？步驟導引。
+    - Reference：有什麼參數？API 方法？設定檔選項。
+    - Troubleshooting：出錯怎麼辦？FAQ 有什麼？
+- 寫作風格
+    - 長度、被動主動語句的規範、一致性(用「command line」而不是「command-line」)
