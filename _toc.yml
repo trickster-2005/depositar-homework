@@ -5,5 +5,3 @@ format: jb-book
 root: intro
 chapters: 
   - file: creative-coding
-execute:
-  execute_notebooks: auto
