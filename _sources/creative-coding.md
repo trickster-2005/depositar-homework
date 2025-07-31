@@ -29,7 +29,7 @@
 
 ### 跨媒介整合
 影視、戲劇配樂是很好的例子，不過這邊更想談的是一種「資料在不同媒介中轉換呈現」的概念，聽起來有一點抽象，附上示意圖以及幾個簡單的例子:
-![示意圖](diagram.png)
+![示意圖](/assets/diagram.png)
 
 
 
@@ -48,7 +48,7 @@
     *<時間之花> by藝術家 李炳曄老師*
 
 
-    ![data-art|300](dataArt.png)
+    ![data-art|300](/assets/dataArt.png)
     將一週的抱怨次數轉成音符和圖表 [圖片來源](http://www.dear-data.com/theproject)
 
 
@@ -64,7 +64,7 @@
 3. **動作與聲音**
 
 
-    |![](特雷門琴.gif)|![](ground-piano.jpg)|
+    |![](/assets/特雷門琴.gif)|![](/assets/ground-piano.jpg)|
     |:-:|:-:|
     |特雷門琴|用腳觸發鋼琴|
     
